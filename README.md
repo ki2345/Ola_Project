@@ -37,11 +37,11 @@ Walkthrough of Key Visuals
 
 1. Overall Page:
 
-  a) Key Performance Indicators (KPIs): Displays the total number of bookings (103,024) and the total booking value ($35M), providing a         high-level summary of business activity.
+a) Key Performance Indicators (KPIs): Displays the total number of bookings (103,024) and the total booking value ($35M), providing a         high-level summary of business activity.
 
-  b) Booking Status Breakdown (Pie Chart): Visually represents the percentage of successful rides (62.09%) versus those that were               cancelled by either the driver or customer, or where a driver was not found.
+b) Booking Status Breakdown (Pie Chart): Visually represents the percentage of successful rides (62.09%) versus those that were               cancelled by either the driver or customer, or where a driver was not found.
 
-  c) Ride Volume Over Time (Line Chart): Tracks daily booking count over the selected date range, revealing daily fluctuations and weekly       patterns in demand.
+c) Ride Volume Over Time (Line Chart): Tracks daily booking count over the selected date range, revealing daily fluctuations and weekly       patterns in demand.
 
 2. Vehicle Type Page:
 
@@ -49,25 +49,25 @@ Walkthrough of Key Visuals
 
 3. Revenue Page:
 
-  a) Revenue by Payment Method (Bar Chart): Compares revenue generated from different payment methods (e.g., Cash, UPI, Credit Card),           highlighting the most popular and profitable payment options.
+a) Revenue by Payment Method (Bar Chart): Compares revenue generated from different payment methods (e.g., Cash, UPI, Credit Card),           highlighting the most popular and profitable payment options.
 
-  b) Top 5 Customers (Table): A table listing the top 5 customers by their total booking value, which can be useful for loyalty and             marketing programs.
+b) Top 5 Customers (Table): A table listing the top 5 customers by their total booking value, which can be useful for loyalty and             marketing programs.
 
-  c) Ride Distance Distribution per Day (Bar Chart): Shows the total ride distance covered each day, providing insights into travel             patterns and demand for long-distance rides.
+c) Ride Distance Distribution per Day (Bar Chart): Shows the total ride distance covered each day, providing insights into travel             patterns and demand for long-distance rides.
 
 4. Cancellations Page:
 
-  a) Cancellation KPIs: Presents key metrics like Cancelled Bookings (28,933) and the overall Cancellation Rate (28.08%), a critical            metric for operational health.
+a) Cancellation KPIs: Presents key metrics like Cancelled Bookings (28,933) and the overall Cancellation Rate (28.08%), a critical            metric for operational health.
 
-  b) Cancelled Rides by Customers (Pie Chart): Breaks down customer-initiated cancellations by reason (e.g., "Wrong Address," "Change of        plans"), helping to identify common user issues.
+b) Cancelled Rides by Customers (Pie Chart): Breaks down customer-initiated cancellations by reason (e.g., "Wrong Address," "Change of        plans"), helping to identify common user issues.
 
-  c) Cancelled Rides by Drivers (Pie Chart): Shows driver-initiated cancellations by reason (e.g., "Customer related issue," "Personal &        Car related issue"), providing insight into driver-side challenges.
+c) Cancelled Rides by Drivers (Pie Chart): Shows driver-initiated cancellations by reason (e.g., "Customer related issue," "Personal &        Car related issue"), providing insight into driver-side challenges.
 
 5. Ratings Page
 
-  a) Driver Ratings by Vehicle Type: Displays the average driver rating for each vehicle type, helping to identify potential quality            issues with specific categories.
+a) Driver Ratings by Vehicle Type: Displays the average driver rating for each vehicle type, helping to identify potential quality            issues with specific categories.
 
-  b) Customer Ratings by Vehicle Type: Shows the average customer rating for each vehicle type, providing feedback on the overall user          experience.
+b) Customer Ratings by Vehicle Type: Shows the average customer rating for each vehicle type, providing feedback on the overall user          experience.
 
 Business Impact & Insights
 
