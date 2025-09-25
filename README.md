@@ -1,4 +1,4 @@
-🚗 OLA Mobility: Operations & Insights Dashboard
+<h2>🚗 OLA Mobility: Operations & Insights Dashboard</h2>
 
 An interactive and comprehensive data dashboard designed to monitor and analyze key performance indicators for OLA's ride-hailing operations. The dashboard provides a holistic view of bookings, revenue, cancellations, and ratings across various vehicle types.
 
