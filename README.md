@@ -79,9 +79,14 @@ iii) Fleet Management: Insights from the "Vehicle Type" page help with smart fle
 
 iv) Service Improvement: The ratings and cancellation data provide direct feedback, allowing OLA to improve both the driver and customer experience, which can lead to better retention and brand loyalty.
 
-DashBoard Preview 
+DashBoard Preview
+
 ![DashBoard Preview](https://github.com/ki2345/Ola_Project/blob/main/Snapshots%20of%20the%20DashBoard/Page_1.png)
+
 ![DashBoard Preview](https://github.com/ki2345/Ola_Project/blob/main/Snapshots%20of%20the%20DashBoard/Page_2.png)
+
 ![DashBoard Preview](https://github.com/ki2345/Ola_Project/blob/main/Snapshots%20of%20the%20DashBoard/Page_3.png)
+
 ![DashBoard Preview](https://github.com/ki2345/Ola_Project/blob/main/Snapshots%20of%20the%20DashBoard/Page_4.png)
+
 ![DashBoard Preview](https://github.com/ki2345/Ola_Project/blob/main/Snapshots%20of%20the%20DashBoard/Page_5.png)
